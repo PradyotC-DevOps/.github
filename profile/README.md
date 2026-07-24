@@ -1,8 +1,14 @@
+<div align="center">
+
 # ☁️ Welcome to PradyotC-DevOps
 
-Welcome to the central hub for my personal capstone DevOps, Cloud-Native, and Infrastructure projects! 
+**Capstone DevOps, Cloud-Native, & Infrastructure Hub**
 
-I created this organization to bifurcate my dedicated DevOps, MLOps, and Site Reliability Engineering (SRE) capstone work from my main personal GitHub account. Here, you will find a curated collection of my infrastructure-as-code implementations, CI/CD pipelines, and cloud deployment strategies.
+[![Personal Profile](https://img.shields.io/badge/Main_Profile-PradyotC-black?style=for-the-badge&logo=github)](https://github.com/PradyotC)
+[![Portfolio](https://img.shields.io/badge/Website-pradyot.vercel.app-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://pradyot.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pradyotc)
+
+</div>
 
 ---
 
@@ -45,9 +51,30 @@ A full-stack deployment showcase.
 
 ## 🛠️ Tech Stack & Tools
 
-*   **Cloud Providers:** AWS, Microsoft Azure
-*   **Orchestration & Containers:** Kubernetes (EKS), Docker, Docker Compose, Docker Swarm
-*   **CI/CD:** Jenkins
-*   **MLOps & Storage:** DVC (Data Version Control), SeaweedFS
-*   **Web Frameworks:** React (TypeScript/Vite), Flask (Python)
-*   **Infrastructure & Networking:** NGINX, AWS ALB, IPtables
+<div align="center">
+  
+  **Cloud & Orchestration** <br>
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+  **CI/CD & Automation** <br>
+  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradyotc-devops/.github/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradyotc-devops/.github/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pradyotc-devops/.github/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
