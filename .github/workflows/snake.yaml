@@ -23,15 +23,14 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
-          # Target the organization account
-          github_user_name: pradyotc-devops
+          # FIX: Target your personal account, not the organization
+          github_user_name: PradyotC 
           
           # Output to an 'output' branch to keep the main branch clean
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          # Use the standard GitHub token provided by Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Push the generated SVG files to the 'output' branch
