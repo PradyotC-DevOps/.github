@@ -1,33 +1,53 @@
-# PradyotC-DevOps ☁️
+# ☁️ Welcome to PradyotC-DevOps
 
-Welcome to the Cloud Infrastructure & Automated Systems Sandbox for **PradyotC-DevOps**. This organization functions as an independent, enterprise-simulated environment dedicated to mastering infrastructure-as-code, scalable containerization, and robust system automation.
+Welcome to the central hub for my personal capstone DevOps, Cloud-Native, and Infrastructure projects! 
 
-## 🛠️ Core Technology Stack
-- **Orchestration:** Kubernetes (K8s Clusters, Pod Configurations, Deployments, Services)
-- **Containerization:** Docker (Multi-stage Builds, Custom Container Registries)
-- **Automation & Systems:** Linux Systems Administration, Shell Scripting (Bash), Git Architecture
-- **Infrastructure as Code (IaC):** Terraform Configurations, Ansible Automation *(In Progress)*
+I created this organization to bifurcate my dedicated DevOps, MLOps, and Site Reliability Engineering (SRE) capstone work from my main personal GitHub account. Here, you will find a curated collection of my infrastructure-as-code implementations, CI/CD pipelines, and cloud deployment strategies.
 
 ---
 
-## 📂 Active Engineering Sandboxes
-
-*   **[devops-labs](https://github.com)**: Unified hands-on laboratory trail featuring multi-stage Dockerfiles, Kubernetes manifest testing, and automated scripts.
-*   **core-linux-automation** *(Incoming)*: Specialized repository for systems administration scripts, automated log rotation, and cron configurations.
-*   **k8s-cluster-orchestration** *(Incoming)*: Infrastructure playground for deploying fault-tolerant microservices, ingress traffic routing, and configuration maps.
-
----
-
-## 🚀 Engineering & Upskilling Philosophy
-Every repository contained within this workspace represents functional, verified configurations authored through rigorous hands-on laboratory environments and sandboxes.
-
-- **Production-Ready Logic:** Prioritizing clean, modular configurations over monolithic code blocks.
-- **Security-First Architecture:** Strict application of robust `.gitignore` patterns to eliminate credential or state leakage.
-- **Rigorous Version Control:** Maintaining structured, meaningful commit tracking to show clear architectural progression.
+## 🚀 What I Do
+This space focuses on automating, scaling, and orchestrating modern applications. My core areas of exploration and development include:
+*   **Cloud Infrastructure:** Architecting and managing resources on AWS and Azure.
+*   **Container Orchestration:** Deploying and scaling applications using Kubernetes (K8s) and Amazon EKS.
+*   **Continuous Integration & Delivery (CI/CD):** Building robust pipelines with Jenkins.
+*   **MLOps:** Managing machine learning datasets and models using DVC and SeaweedFS.
 
 ---
 
-## 🎯 Professional Integration
-This environment bridges advanced academic computing foundations with modern, production-grade cloud deployment standards. Designed for cross-border infrastructure scalability, compliance-driven configurations, and seamless system portability.
+## 📂 Featured Capstone Projects
 
-*"Automating the manual, scaling the architecture, securing the pipeline."*
+Here is a look at the key repositories hosted in this organization:
+
+### 🔬 [DevOps Labs](https://github.com/pradyotc-devops/devops-labs)
+A comprehensive lab environment containing my step-by-step implementations and configurations. 
+Key modules include:
+*   **AWS & Azure:** Managing EC2 instances, custom AMIs, Azure VM sizing, and tagging.
+*   **Kubernetes:** Deploying Pods, configuring Namespaces, setting Resource Limits, executing Rolling Updates, and troubleshooting Volume Mounts.
+*   **Jenkins:** Full CI/CD server setup, plugin installation, user access configuration, and job organization.
+*   **MLOps:** Dataset tracking with DVC and remote storage integration with SeaweedFS.
+*   **Linux/DevOps:** IPtables configuration and Linux process troubleshooting.
+
+### 🌐 [React-Flask EKS Ingress](https://github.com/pradyotc-devops/react-flask-eks-ingress)
+A full-stack deployment showcase.
+*   Contains a containerized React frontend and a Flask backend.
+*   Fully orchestrated on Amazon EKS.
+*   Includes comprehensive Kubernetes manifests (`workloads`, `database`, `config-secrets`) and an AWS ALB Ingress configuration.
+
+### 🐳 [Rogue Merchant Docker Compose](https://github.com/pradyotc-devops/rogue-merchant-docker-compose)
+*   A Dockerized fantasy bazaar application demonstrating effective multi-container local deployments and service mapping using Docker Compose.
+
+### 🐝 [Swarm Image Processing](https://github.com/pradyotc-devops/swarm_image_processing)
+*   Infrastructure code featuring a `Jenkinsfile` for pipeline automation.
+*   Includes master and slave EC2 `user_data` provisioning scripts for distributed processing environments.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+*   **Cloud Providers:** AWS, Microsoft Azure
+*   **Orchestration & Containers:** Kubernetes (EKS), Docker, Docker Compose, Docker Swarm
+*   **CI/CD:** Jenkins
+*   **MLOps & Storage:** DVC (Data Version Control), SeaweedFS
+*   **Web Frameworks:** React (TypeScript/Vite), Flask (Python)
+*   **Infrastructure & Networking:** NGINX, AWS ALB, IPtables
